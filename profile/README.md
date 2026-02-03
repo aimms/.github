@@ -7,7 +7,12 @@ We monitor these projects closely to ensure our community has the best resources
 
 | Project | Engagement | Documentation & Guides |
 | :--- | :--- | :--- |
-| **Contract Allocation** | ![Downloads](https://img.shields.io/github/downloads/aimms/contract-allocation/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9) | [Read Article](https://how-to.aimms.com/Articles/383/383-contract-allocation.html) |
+| **[Contract Allocation](https://github.com/aimms/contract-allocation)** | [![Downloads](https://img.shields.io/github/downloads/aimms/contract-allocation/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9)](https://github.com/aimms/contract-allocation/releases) | [Read Article](https://how-to.aimms.com/Articles/383/383-contract-allocation.html) |
+| **[Knapsack](https://github.com/aimms/knapsack)** | [![Downloads](https://img.shields.io/github/downloads/aimms/knapsack/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9)](https://github.com/aimms/knapsack/releases) | [Read Article](https://how-to.aimms.com/Articles/390/390-knapsack-problem.html) |
+| **[Traveling Salesman](https://github.com/aimms/traveling-salesman)** | [![Downloads](https://img.shields.io/github/downloads/aimms/traveling-salesman/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9)](https://github.com/aimms/traveling-salesman/releases) | [Read Article](https://how-to.aimms.com/Articles/397/397-traveling-salesman.html) |
+| **[Employee Scheduling](https://github.com/aimms/employee-scheduling)** | [![Downloads](https://img.shields.io/github/downloads/aimms/employee-scheduling/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9)](https://github.com/aimms/employee-scheduling/releases) | [Read Article](https://how-to.aimms.com/Articles/387/387-employee-scheduling.html) |
+| **[EV Charging Locations](https://github.com/aimms/ev-charging-locations)** | [![Downloads](https://img.shields.io/github/downloads/aimms/ev-charging-locations/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9)](https://github.com/aimms/ev-charging-locations/releases) | [Read Article](https://how-to.aimms.com/Articles/655/655-ev-location.html) |
+| **[Reindeer Pairing](https://github.com/aimms/reindeer-pairing)** | [![Downloads](https://img.shields.io/github/downloads/aimms/reindeer-pairing/total?style=for-the-badge&logo=github&labelColor=000081&color=1847c9)](https://github.com/aimms/reindeer-pairing/releases) | [Read Article](https://how-to.aimms.com/Articles/434/434-reindeer-pairing.html) |
 
 
 ## 🙋‍♂️ Support & Contributions
